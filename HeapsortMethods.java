@@ -1,7 +1,5 @@
 //Name: Kritika Partha  
 //Date: 2/10/20
-// What I learned: I learned how to create a heap and how a heap works. I learned how to heap down using
-//the swap method. I also learned how to sort the heap to make it easier for the heapdown method. 
 import java.text.DecimalFormat;
 public class HeapsortMethods
 {
